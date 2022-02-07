@@ -4,8 +4,6 @@
 ### http://wk34.com
 ### http://ka42.com
 
-### wk34.com
-### ka42.com
 ### 小奶猫回家页简介
 专人不断更新，提供最新小奶猫下载地址
 请收藏保存本网址：github.com/
